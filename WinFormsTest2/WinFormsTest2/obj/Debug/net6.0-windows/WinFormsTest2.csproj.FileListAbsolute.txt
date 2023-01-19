@@ -1,0 +1,17 @@
+C:\Users\otata\source\repos\WinFormsTest2\WinFormsTest2\bin\Debug\net6.0-windows\WinFormsTest2.exe
+C:\Users\otata\source\repos\WinFormsTest2\WinFormsTest2\bin\Debug\net6.0-windows\WinFormsTest2.deps.json
+C:\Users\otata\source\repos\WinFormsTest2\WinFormsTest2\bin\Debug\net6.0-windows\WinFormsTest2.runtimeconfig.json
+C:\Users\otata\source\repos\WinFormsTest2\WinFormsTest2\bin\Debug\net6.0-windows\WinFormsTest2.dll
+C:\Users\otata\source\repos\WinFormsTest2\WinFormsTest2\bin\Debug\net6.0-windows\WinFormsTest2.pdb
+C:\Users\otata\source\repos\WinFormsTest2\WinFormsTest2\obj\Debug\net6.0-windows\WinFormsTest2.csproj.AssemblyReference.cache
+C:\Users\otata\source\repos\WinFormsTest2\WinFormsTest2\obj\Debug\net6.0-windows\WinFormsTest2.Form1.resources
+C:\Users\otata\source\repos\WinFormsTest2\WinFormsTest2\obj\Debug\net6.0-windows\WinFormsTest2.csproj.GenerateResource.cache
+C:\Users\otata\source\repos\WinFormsTest2\WinFormsTest2\obj\Debug\net6.0-windows\WinFormsTest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otata\source\repos\WinFormsTest2\WinFormsTest2\obj\Debug\net6.0-windows\WinFormsTest2.AssemblyInfoInputs.cache
+C:\Users\otata\source\repos\WinFormsTest2\WinFormsTest2\obj\Debug\net6.0-windows\WinFormsTest2.AssemblyInfo.cs
+C:\Users\otata\source\repos\WinFormsTest2\WinFormsTest2\obj\Debug\net6.0-windows\WinFormsTest2.csproj.CoreCompileInputs.cache
+C:\Users\otata\source\repos\WinFormsTest2\WinFormsTest2\obj\Debug\net6.0-windows\WinFormsTest2.dll
+C:\Users\otata\source\repos\WinFormsTest2\WinFormsTest2\obj\Debug\net6.0-windows\refint\WinFormsTest2.dll
+C:\Users\otata\source\repos\WinFormsTest2\WinFormsTest2\obj\Debug\net6.0-windows\WinFormsTest2.pdb
+C:\Users\otata\source\repos\WinFormsTest2\WinFormsTest2\obj\Debug\net6.0-windows\WinFormsTest2.genruntimeconfig.cache
+C:\Users\otata\source\repos\WinFormsTest2\WinFormsTest2\obj\Debug\net6.0-windows\ref\WinFormsTest2.dll

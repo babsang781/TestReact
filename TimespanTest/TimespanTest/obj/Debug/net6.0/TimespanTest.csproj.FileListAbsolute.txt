@@ -1,0 +1,15 @@
+C:\Users\otata\source\repos\TimespanTest\TimespanTest\bin\Debug\net6.0\TimespanTest.exe
+C:\Users\otata\source\repos\TimespanTest\TimespanTest\bin\Debug\net6.0\TimespanTest.deps.json
+C:\Users\otata\source\repos\TimespanTest\TimespanTest\bin\Debug\net6.0\TimespanTest.runtimeconfig.json
+C:\Users\otata\source\repos\TimespanTest\TimespanTest\bin\Debug\net6.0\TimespanTest.dll
+C:\Users\otata\source\repos\TimespanTest\TimespanTest\bin\Debug\net6.0\TimespanTest.pdb
+C:\Users\otata\source\repos\TimespanTest\TimespanTest\obj\Debug\net6.0\TimespanTest.csproj.AssemblyReference.cache
+C:\Users\otata\source\repos\TimespanTest\TimespanTest\obj\Debug\net6.0\TimespanTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otata\source\repos\TimespanTest\TimespanTest\obj\Debug\net6.0\TimespanTest.AssemblyInfoInputs.cache
+C:\Users\otata\source\repos\TimespanTest\TimespanTest\obj\Debug\net6.0\TimespanTest.AssemblyInfo.cs
+C:\Users\otata\source\repos\TimespanTest\TimespanTest\obj\Debug\net6.0\TimespanTest.csproj.CoreCompileInputs.cache
+C:\Users\otata\source\repos\TimespanTest\TimespanTest\obj\Debug\net6.0\TimespanTest.dll
+C:\Users\otata\source\repos\TimespanTest\TimespanTest\obj\Debug\net6.0\refint\TimespanTest.dll
+C:\Users\otata\source\repos\TimespanTest\TimespanTest\obj\Debug\net6.0\TimespanTest.pdb
+C:\Users\otata\source\repos\TimespanTest\TimespanTest\obj\Debug\net6.0\TimespanTest.genruntimeconfig.cache
+C:\Users\otata\source\repos\TimespanTest\TimespanTest\obj\Debug\net6.0\ref\TimespanTest.dll

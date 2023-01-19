@@ -1,0 +1,15 @@
+C:\Users\otata\source\repos\Generator_ConsoleTest\Generator_ConsoleTest\bin\Debug\net6.0\Generator_ConsoleTest.exe
+C:\Users\otata\source\repos\Generator_ConsoleTest\Generator_ConsoleTest\bin\Debug\net6.0\Generator_ConsoleTest.deps.json
+C:\Users\otata\source\repos\Generator_ConsoleTest\Generator_ConsoleTest\bin\Debug\net6.0\Generator_ConsoleTest.runtimeconfig.json
+C:\Users\otata\source\repos\Generator_ConsoleTest\Generator_ConsoleTest\bin\Debug\net6.0\Generator_ConsoleTest.dll
+C:\Users\otata\source\repos\Generator_ConsoleTest\Generator_ConsoleTest\bin\Debug\net6.0\Generator_ConsoleTest.pdb
+C:\Users\otata\source\repos\Generator_ConsoleTest\Generator_ConsoleTest\obj\Debug\net6.0\Generator_ConsoleTest.csproj.AssemblyReference.cache
+C:\Users\otata\source\repos\Generator_ConsoleTest\Generator_ConsoleTest\obj\Debug\net6.0\Generator_ConsoleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otata\source\repos\Generator_ConsoleTest\Generator_ConsoleTest\obj\Debug\net6.0\Generator_ConsoleTest.AssemblyInfoInputs.cache
+C:\Users\otata\source\repos\Generator_ConsoleTest\Generator_ConsoleTest\obj\Debug\net6.0\Generator_ConsoleTest.AssemblyInfo.cs
+C:\Users\otata\source\repos\Generator_ConsoleTest\Generator_ConsoleTest\obj\Debug\net6.0\Generator_ConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\otata\source\repos\Generator_ConsoleTest\Generator_ConsoleTest\obj\Debug\net6.0\Generator_ConsoleTest.dll
+C:\Users\otata\source\repos\Generator_ConsoleTest\Generator_ConsoleTest\obj\Debug\net6.0\refint\Generator_ConsoleTest.dll
+C:\Users\otata\source\repos\Generator_ConsoleTest\Generator_ConsoleTest\obj\Debug\net6.0\Generator_ConsoleTest.pdb
+C:\Users\otata\source\repos\Generator_ConsoleTest\Generator_ConsoleTest\obj\Debug\net6.0\Generator_ConsoleTest.genruntimeconfig.cache
+C:\Users\otata\source\repos\Generator_ConsoleTest\Generator_ConsoleTest\obj\Debug\net6.0\ref\Generator_ConsoleTest.dll

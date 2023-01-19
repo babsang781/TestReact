@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "62Zx9zl7VCiXMAKcjLWr+1O2I/ocWchRY5QnSfHXE85VQ6S0KdaukuLDI6ACTReGhwvzMsJ4AzRg3uHJrJx0TQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\otata\\source\\repos\\WinFormsTest2\\WinFormsTest2\\WinFormsTest2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\otata\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22000.25\\microsoft.windows.sdk.net.ref.10.0.22000.25.nupkg.sha512"
+  ],
+  "logs": []
+}
